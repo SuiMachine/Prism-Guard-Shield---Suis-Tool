@@ -4,5 +4,5 @@ A basic program for changing camera aspect ratio and default FOV in Prism: Guard
 
 Credits
 -------
-  * [SuicideMachine](http://twitch.tv/suicidemachine)
+  * [SuicideMachine](http://twitch.tv/suimachine)
   
